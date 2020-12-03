@@ -1,5 +1,5 @@
 # need4stek
-{EPITECH} | First year | Introduction to A.I.
+# {EPITECH} | First year | Introduction to A.I.
 
 By now you’ve understood that it’s now your turn to create your own autonomous car. It must be capable
 of driving on a track without hitting the walls or driving in the wrong direction.
@@ -22,15 +22,16 @@ See the subject for further details !
 
 ========================
 
-2nd semester Introduction to A.I. unit
+## 2nd semester Introduction to A.I. unit
 
 Grade : A | Mark : 19
 
-Score : 100%
+| Category               | Percentage | Tests   | Crash ? |
+|------------------------|------------|---------|---------|
+| Clean repository       | 100%       | 5/5     | x       |
+| Basic protocol working | 100%       | 1/1     | x       |
+| **End score ASM**      | **100%**   | **6/6** | **No**  |
 
-   - Clean repository : 100% --- 5/5
-   - Basic protocol working : 100% --- 1/1
-
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 epitech students !
