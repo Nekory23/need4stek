@@ -30,7 +30,7 @@ Grade : A | Mark : 19
 |------------------------|------------|---------|---------|
 | Clean repository       | 100%       | 5/5     | x       |
 | Basic protocol working | 100%       | 1/1     | x       |
-| **End score ASM**      | **100%**   | **6/6** | **No**  |
+| **End score**          | **100%**   | **6/6** | **No**  |
 
 Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
